@@ -1,6 +1,8 @@
 # 🚴 Cycling Weather AI
 
 A smart weather application for cyclists with route-type-specific scoring algorithms (road, MTB, city).
+<img width="2851" height="1504" alt="image" src="https://github.com/user-attachments/assets/0139ac88-7127-483a-ac1a-cbc791ecd7f9" />
+
 
 ## ✨ Features
 
